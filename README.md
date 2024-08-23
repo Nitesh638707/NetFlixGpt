@@ -3,9 +3,22 @@
 - we use Create React-App (in this we use WebPacks instead of parcel)
 - Configured TailwindCSS 
 - Header
+- Routing of App
 - Login Form
 - Sign Up Form ( you want to build a form in react without the tears then you should use formic library )
 - let's teach you how write validation in side your form
+- form validation
+- useRef Hook
+- after validation we will do Authentication for this we have to use backend we will use google firebase
+- firebase setup
+- deploying our app to production
+
+- create Sign Up user Account
+-Created user sign in Account
+- created Redux  store with userSlice 
+- Implemented Sign out
+- Update Profile
+- fetch Movies from TMDB
 
 
 
